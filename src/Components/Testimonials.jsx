@@ -19,7 +19,7 @@ export default function Testimonials() {
           <div className="info">
             <img src={avatarimage1} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
+              <h4>Nikhil Sharma</h4>
               <span>CEO - Nikhil Web Solutions</span>
             </div>
           </div>
@@ -32,7 +32,7 @@ export default function Testimonials() {
           <div className="info">
             <img src={avatarimage2} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
+              <h4>Nikhil Sharma</h4>
               <span>CEO - Nikhil Web Solutions</span>
             </div>
           </div>
@@ -45,7 +45,7 @@ export default function Testimonials() {
           <div className="info">
             <img src={avatarimage3} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
+              <h4>Nikhil Sharma</h4>
               <span>CEO - Nikhil Web Solutions</span>
             </div>
           </div>
